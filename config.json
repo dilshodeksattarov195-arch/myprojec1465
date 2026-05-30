@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerponnect",
+        "uuid": 1736025,
+        "checksum": "yr55ai"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
